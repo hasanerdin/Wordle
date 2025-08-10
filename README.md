@@ -30,7 +30,6 @@ giving feedback for each guess.
 
 ## 🚀 Play & Explore
 - 🎮 **Play the game:** [itch.io Link](https://yourusername.itch.io/wordle-clone)  
-- 📂 **View the source code:** [GitHub Repository](https://github.com/yourusername/wordle-clone)  
 - 📺 **Watch the tutorial:** [YouTube Video](https://www.youtube.com/watch?v=Tbcgqz5lM38&list=PLqlFiJjSZ2x39Qc0yj73Myixt8jmDUBNk&index=3)
 
 ---
