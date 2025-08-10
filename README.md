@@ -1,7 +1,6 @@
 # 🟩 Wordle Clone in Unity
 
-A fully functional Wordle clone built in Unity, following and expanding upon  
-[this tutorial video](https://www.youtube.com/watch?v=Tbcgqz5lM38&list=PLqlFiJjSZ2x39Qc0yj73Myixt8jmDUBNk&index=3).
+A fully functional Wordle clone built in Unity, following and expanding upon [this tutorial video](https://www.youtube.com/watch?v=Tbcgqz5lM38&list=PLqlFiJjSZ2x39Qc0yj73Myixt8jmDUBNk&index=3).
 
 ## 📖 Overview
 This project recreates the popular word puzzle "Wordle" while exploring Unity’s UI system, prefab workflows,  
@@ -38,4 +37,4 @@ giving feedback for each guess.
 
 ### 📌 Author
 Created by **Hasan Erdin**  
-Portfolio: [yourwebsite.com](https://hasanerdin.github.io)
+Portfolio: [link](https://hasanerdin.github.io)
