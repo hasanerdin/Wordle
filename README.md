@@ -37,4 +37,4 @@ giving feedback for each guess.
 
 ### 📌 Author
 Created by **Hasan Erdin**  
-Portfolio: [link](https://hasanerdin.github.io)
+[Portfolia](https://hasanerdin.github.io)
